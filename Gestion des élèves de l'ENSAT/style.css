@@ -1,0 +1,48 @@
+
+
+
+
+
+p.ensat
+{
+    margin-top: 40px ;
+    font-size: 40px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color:darkgoldenrod ;
+}
+
+body
+{
+    background-color: rgb(192, 194, 199) ;
+}
+
+input 
+{
+    background-color:rgb(94, 122, 214);
+    margin-left: 4px;
+
+    border: 10px ;
+    box-shadow:0 0 15px 4px rgba(37, 36, 36, 0.06);
+    border-radius: 10px;
+    text-decoration-color: aliceblue ;
+}
+
+.name
+{
+    font-family: 'Times New Roman', Times, serif ;
+    color: rgb(97, 97, 184);
+    font-weight: bold ;
+}
+
+.mp
+{
+    font-family: 'Times New Roman', Times, serif ;
+    color: rgb(97, 97, 184);
+    font-weight: bold ;
+}
+
+form input.register
+{
+    color:darkgoldenrod;
+    background-color: rgb(38, 38, 95) ;
+}
